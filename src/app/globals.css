@@ -78,7 +78,7 @@
 
 @layer utilities {
   .section {
-    @apply md:p-10 py-10 p-5;
+    @apply lg:px-20 lg:py-20 md:p-10 py-10 p-5;
   }
   .heading {
     @apply lg:text-4xl md:text-3xl sm:text-2xl text-xl font-semibold;

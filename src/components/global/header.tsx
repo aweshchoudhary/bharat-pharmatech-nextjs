@@ -37,7 +37,7 @@ const Header = (props: Props) => {
   return (
     <header>
       <div className="bg-primary w-full h-14"></div>
-      <div className="flex justify-between items-center py-5 px-10 border-b">
+      <div className="flex justify-between items-center py-3 px-10 border-b">
         <div>
           <figure className="w-[50px]">
             <Logo />

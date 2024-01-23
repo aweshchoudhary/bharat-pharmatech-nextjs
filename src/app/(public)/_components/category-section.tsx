@@ -1,4 +1,7 @@
+"use client";
 import Image from "next/image";
+import { motion } from "framer-motion";
+import { getCldImageUrl } from "next-cloudinary";
 
 interface CategoryType {
   id: number;
@@ -13,8 +16,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -22,8 +24,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -31,8 +32,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -40,8 +40,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -49,8 +48,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -58,8 +56,7 @@ const categories: CategoryType[] = [
     id: 1,
     name: "Capsule Filling Machinery",
     href: "/c/capsule-filling-machinery",
-    image:
-      "https://images.unsplash.com/photo-1704214584087-8eb7a4db12c2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "",
     description:
       "Capsule filling machinery is a machine that is used to fill capsules with liquid or solid material.",
   },
@@ -72,22 +69,41 @@ const CategorySection = () => {
       <ul className="flex flex-wrap">
         {categories.map((category: CategoryType, i: number) => (
           <li key={i} className="lg:basis-1/3 basis-1/2 p-2">
-            <div>
-              <Image
-                width={500}
-                height={500}
-                src={category.image}
-                alt={category.description}
-                className="h-[300px] w-full object-cover"
-              />
-              <div className="bg-primary text-primary-foreground p-3 text-center truncate">
-                <h3 className="font-semibold text-lg">{category.name}</h3>
-              </div>
-            </div>
+            <CategoryCard category={category} delay={0.2 + i / 6} />
           </li>
         ))}
       </ul>
     </section>
+  );
+};
+
+const CategoryCard = ({
+  category,
+  delay = 0,
+}: {
+  category: CategoryType;
+  delay?: number;
+}) => {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 100 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay, type: "spring", damping: 20 }}
+      className="md:rounded-md hover:shadow-xl rounded overflow-hidden cursor-pointer"
+    >
+      <Image
+        width={500}
+        height={500}
+        src={getCldImageUrl({
+          src: "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        })}
+        alt={category.description}
+        className="h-[300px] w-full bg-accent object-cover"
+      />
+      <div className="bg-primary text-primary-foreground p-3 text-center truncate">
+        <h3 className="font-semibold text-lg">{category.name}</h3>
+      </div>
+    </motion.div>
   );
 };
 

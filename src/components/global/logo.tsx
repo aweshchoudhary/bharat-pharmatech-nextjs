@@ -18,7 +18,7 @@ const Logo = () => {
         cy="653"
         r="623"
         stroke="currentColor"
-        stroke-width="60"
+        strokeWidth="60"
       />
     </svg>
   );
