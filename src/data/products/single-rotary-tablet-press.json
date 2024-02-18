@@ -1,0 +1,94 @@
+{
+  "id": 3,
+  "filename": "single-rotary-tablet-press",
+  "title": "Single Rotary Tablet Machine",
+  "descriptions": [
+    "Introducing Bharat Pharmatech's Square GMP Model Single Rotary Tablet Press, engineered for efficiency and safety in pharmaceutical production. Featuring an operator-friendly design, this press is equipped with an electronic digital tablet cum RPM counter for precise control and monitoring. Additionally, it includes reverse direction motion protection to ensure operator safety during operation. Trust Bharat Pharmatech's innovative solutions to streamline your tablet manufacturing process while prioritizing quality and safety."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Single Rotary Tablet Machine",
+      "list": [
+        "Robust Construction: Engineered with a cast iron body and special grade iron casting turret, bolstering durability and stability. Needle roller bearings at the turret's base ensure smooth operation.",
+        "Hygienic Design: Free from painted parts in the tablet manufacturing zone, all components crafted from stainless steel 304, organ metal, or hard chrome plated, ensuring optimal cleanliness and compliance with industry standards.",
+        "Advanced Features: Boasts an upper punch penetration system, variable speed pulley, one-shot lubrication system, and anti-vibrating mount for superior performance and minimized vibration.",
+        "Enhanced Safety: Lower guards constructed of polished stainless steel, upper guards of acrylic material, and a sturdy aluminum frame for turret guards, all interlocked to prioritize safety during operation.",
+        "Convenient Handling: Equipped with double-sided lifting cams and an additional handwheel for effortless loading of punch die sets, facilitating smooth and efficient operation.",
+        "Clean Work Environment: Features effective Dust Extraction Nozzles, maintaining a pristine workspace by keeping dust at bay, ensuring top-notch product quality and worker safety.",
+        "Customization Options: Tailor the machine to specific requirements with options such as a Force Feeding Attachment, A. C. Variable Drive & Electromagnetic Clutch, Poly Carbonate Upper Guards, and Auto Lubrication Pump, offering versatility and adaptability for diverse applications."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Single Rotary Tablet Machine",
+      "headers": ["Model", "BP-16-D", "BP-20-D", "BP-23-DB", "BP-26-BB"],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        ["Type of Tooling", "“D”", "“D”", "“DB”", "“BB”"],
+        ["No. of Station", "16", "20", "23", "26"],
+        ["Tablets Output /hour* (Max.)", "38400", "48000", "55200", "62400"],
+        ["Operating Pressure Max. (Ton)", "6", "6", "6", "6"],
+        ["Tablet Diameter Max. (mm)", "10", "10", "10", "6"],
+        ["Depth of Fill Max. (mm)", "20.5", "20.5", "18.5", "17.5"],
+        [
+          "Upper Punch Penetration (mm)",
+          "1.5 – 8",
+          "1.5 – 8",
+          "1.5 – 8",
+          "1.5 – 8"
+        ],
+        ["Total Electrical Power (hp)", "3 HP", "3 HP", "3 HP", "3 HP"],
+        [
+          "Electric Power Supply",
+          "2.2 Kw, 1440 RPM, 415 V., 3 Phase, 50 Hz OR As Per the requirement of Customer",
+          "2.2 Kw, 1440 RPM, 415 V., 3 Phase, 50 Hz OR As Per the requirement of Customer",
+          "2.2 Kw, 1440 RPM, 415 V., 3 Phase, 50 Hz OR As Per the requirement of Customer",
+          "2.2 Kw, 1440 RPM, 415 V., 3 Phase, 50 Hz OR As Per the requirement of Customer"
+        ],
+        ["Turret RPM Max. ( Max.)", "40", "40", "40", "40"],
+        [
+          "Tablet Press Dimension (mm) (Approx.)",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820"
+        ],
+        ["Net Weight (kgs) (Approx.)", "1000", "1000", "1000", "1000"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Single Rotary Tablet Machine By Bharat Pharmatech",
+    "description": "Single Rotary Tablet Machine by bharat pharmatech",
+    "keywords": "Single Rotary Tablet Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/single-rotary-tablet-press-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary tablet press machine with bharat pharmatech"
+    }
+  ]
+}

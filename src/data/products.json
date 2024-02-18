@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Manual Capsule Filling Machine",
+    "description": "",
+    "features_list": ["", "", "", "", "", "", "", "", "", ""],
+    "metadata": {
+      "title": "Manual Capsule Filling Machine - Bharat Pharmatech",
+      "description": "",
+      "keywords": "manual capsule filling machine, capsule filling machine, capsule filling machine with bharat pharmatech"
+    },
+    "slug": "/manual-capsule-filling-machine",
+    "collection": 1,
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "PRODUCTS/ABIDAH-BOTTLE-BOX-V2_wleutf",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "PRODUCTS/FEATURES/ABIDAH-BANNER_dvvdl3",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "PRODUCTS/ABIDAH-BOTTLE_rbjyis",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "PRODUCTS/ABIDAH-BOX_ppmgqd",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      }
+    ]
+  }
+]

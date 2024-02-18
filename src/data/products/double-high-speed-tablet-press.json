@@ -1,0 +1,121 @@
+{
+  "id": 3,
+  "filename": "double-rotary-high-speed-tablet-press",
+  "title": "Double Rotary High Speed Tablet Machine",
+  "descriptions": [
+    "Introducing Bharat Pharmatech's Square GMP Model Double Rotary High Speed Tablet Press, a cutting-edge solution designed for efficient and safe tablet production in pharmaceutical manufacturing. With its operator-friendly design, this press features an electronic digital tablet cum RPM counter for precise monitoring and control, ensuring accuracy throughout the process. Additionally, reverse direction motion protection is incorporated for enhanced safety during operation. Equipped with double-sided lifting cams and an extra hand wheel, loading punch die sets is made easy, facilitating smooth and seamless production. Trust Bharat Pharmatech's innovative equipment to optimize your tablet manufacturing process while maintaining the highest standards of quality and safety."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Double Rotary High Speed Tablet Machine",
+      "list": [
+        "Square and elegant design with cabinet top made of stainless steel 304, providing operator-friendly and comfortable operation during production.",
+        "Outside front controls with dials allow fine-tuning of all parameters during machine operation, enhancing ease of use.",
+        "Equipped with round hoppers of SS-304 with butterfly valve for easy operation.",
+        "Features A. C. variable frequency drive for the main motor and force feeding motors, enabling synchronization of press speed with feeding.",
+        "Utilizes electromagnetic clutch arrangements with helical gear ring to drive the turret, ensuring smooth operation.",
+        "Includes specially designed pressure link assembly to maintain tablet weight consistency by providing sufficient and equal pressure to the tablets.",
+        "Comes with standard one-piece turret of special grade casting, with options for three-piece turret with SS-304/316 middle plate and electroless nickel plated turret. Lower punch seals are provided at lower punch hole in turret.",
+        "Features ball bearing type upper and lower pressure rolls, with upper rolls fabricated from MS with hard chrome plating.",
+        "Upper guards for the tableting section are made of polycarbonate with stainless hinges and sturdy aluminum frame, fitted with gas-filled shock absorbers. Lower guards are made of stainless 304 with excellent matt finish. All guards are interlocked for safety.",
+        "No painted parts in tablet manufacturing zone; all parts made of SS-304 material or Gunmetal or hard chrome plated. All hardware used in the press has SS-304 quality in tablet manufacturing zone.",
+        "Detachable control panel with acrylic cover protects controls from dust. The press includes anti-vibrating mounts and excellent paint finish wherever required outside the tablet manufacturing zone.",
+        "Excellent bottom-driven force feeding system for material feeding, with options for gravity type feeding and two-layer attachment.",
+        "Designed to minimize changeover time, with easily removable weight adjustment section providing easy access to lower punches and dies for removal/replacement.",
+        "Conveniently located handwheel for indexing the turret during tool changeover by a single operator.",
+        "Specially designed dust extractor nozzle can be connected with a dust extractor, keeping it away from the press.",
+        "Hydraulic power pack for pressure loading and overload release, with a hydraulic gauge provided on the lower guard for easy viewing at an additional cost."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Double Rotary High Speed Tablet Machine",
+      "headers": ["Model", "BP-37-D", "BP-45-B", "BP-55-BB", "BP-61-BB"],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        ["Type of Tooling", "“D”", "“B”", "“BB”", "“BB”"],
+        ["No. of Station", "37", "45", "55", "61"],
+        [
+          "Tablets Output /hour* (Max.)",
+          "222000",
+          "324000",
+          "396000",
+          "439200"
+        ],
+        ["Operating Pressure Max. (Ton)", "10", "6.5", "6.5", "6.5"],
+        ["Tablet Diameter Max. (mm)", "25", "16", "11.1", "11.1"],
+        ["Depth of Fill Max. (mm)", "20.5", "17.5", "17.5", "17.5"],
+        [
+          "Upper Punch Penetration (mm)",
+          "3.2 to 8",
+          "3.2 to 8",
+          "3.2 to 8",
+          "3.2 to 8"
+        ],
+        [
+          "Main Ele. Motor (kw/hp)",
+          "7 kw / 9.5 hp",
+          "7 kw / 9.5 hp",
+          "7 kw / 9.5 hp",
+          "7 kw / 9.5 hp"
+        ],
+        [
+          "Force Feeder Motors (kw/hp) (2 nos.)",
+          "0.19 kw / 0.25 hp",
+          "0.19 kw / 0.25 hp",
+          "0.19 kw / 0.25 hp",
+          "0.19 kw / 0.25 hp"
+        ],
+        [
+          "Electric Power Supply",
+          "1440 RPM, 415 V. 50 Hz, 3 Ph. OR As Per the requirement of Customer",
+          "1440 RPM, 415 V. 50 Hz, 3 Ph. OR As Per the requirement of Customer",
+          "1440 RPM, 415 V. 50 Hz, 3 Ph. OR As Per the requirement of Customer",
+          "1440 RPM, 415 V. 50 Hz, 3 Ph. OR As Per the requirement of Customer"
+        ],
+        [
+          "Tablet Press Dimension (mm)(Approx.)",
+          "1485 x 1430 x 1750",
+          "1485 x 1430 x 1750",
+          "1485 x 1430 x 1750",
+          "1485 x 1430 x 1750"
+        ],
+        ["Net Weight (kgs) (Approx.)", "2500", "2500", "2500", "2500"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Double Rotary High Speed Tablet Machine By Bharat Pharmatech",
+    "description": "Double Rotary High Speed Tablet Machine by bharat pharmatech",
+    "keywords": "Double Rotary High Speed Tablet Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/double-rotary-high-speed-tablet-press-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary high speed tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary high speed tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary high speed tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary high speed tablet press machine with bharat pharmatech"
+    }
+  ]
+}

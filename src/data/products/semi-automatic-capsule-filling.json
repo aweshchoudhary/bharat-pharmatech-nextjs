@@ -1,0 +1,130 @@
+{
+  "id": 2,
+  "filename": "semi-automatic-capsule-filling",
+  "title": "Semi-Automatic Capsule Filling Machine",
+  "descriptions": [
+    "Introducing Bharat Pharmatech's Semi-Automatic Capsule Filling Machine Model: LSCF – a game-changer in pharmaceutical manufacturing. With its innovative design and advanced features, the LSCF model revolutionizes the capsule filling process, offering unmatched precision and efficiency. Designed to meet the demands of modern pharmaceutical procedures, our machine ensures superior filling weight accuracy, surpassing traditional manual methods.",
+    "Our Semi Auto. capsule filler simplifies the manufacturing process, allowing for higher degrees of automation compared to manual alternatives. Whether filling capsules with powders, granules, or pellets, our machine handles it all effortlessly. Plus, with its GMP standards-compliant Stainless-Steel construction, you can trust in its durability and hygiene, meeting the highest industry standards.",
+    "Featuring a variable-speed filling table, our machine guarantees precise dosage accuracy. Moreover, the integration of an automatic capsule loading system facilitates rapid and secure closure and ejection of filled capsules, enhancing overall efficiency and safety."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Semi-Automatic Capsule Filling Machine",
+      "list": [
+        "High Production Rate: Up to 45,000 capsules/hour.",
+        "On-Line Polishing & Sorting: Automated in-machine process.",
+        "Operator-Free Polishing & Sorting: No manual intervention needed.",
+        "Automatic Empty Capsule Separation: Eliminates manual turning.",
+        "Energy Efficient: Power-saving design.",
+        "No Stored Capsule Requirement: Streamlined process.",
+        "Automatic Loader Disengagement: Enhances efficiency.",
+        "PLC Controlled Digital Operations: Precise monitoring.",
+        "Variable Auger Speeds: Suitable for various powders & pellets.",
+        "Improved Drug Hopper Design: Quick dismantling.",
+        "Auto-Drug Hopper In-feed Mechanism: Reduces weight variation.",
+        "Dosage Accuracy: Infinitely variable filling speeds.",
+        "Automation of Loading Station: Simplifies operation.",
+        "Automatic Filling Station: Reduces monitoring needs.",
+        "Pneumatic Closing Station: Simplifies capsule closing.",
+        "Vertical Capsule Closing: Prevents spillage, lowers rejection rates.",
+        "Modular Hopper Design: Quick cleaning, less downtime.",
+        "Ring Loading Station: Increases output capacity.",
+        "Ejection Chute with De-dusting Screen: Ensures product quality."
+      ]
+    },
+    {
+      "name": "Operating Procedure of Semi-Automatic Capsule Filling Machine",
+      "list": [
+        "Feed empty capsules in the hopper",
+        "Put on loading ring on loader",
+        "Push the lever to load capsules in loading ring ",
+        "Remove the loading ring and separate its upper and lower part manually (to separate capsule bodies and caps) ",
+        "Put the lower part of loading ring on the machine for filling and fill the powder in hopper",
+        "Press powder filling button to fill powder in capsule bodies",
+        "Join upper and lower parts of loading ring and send them for sealing",
+        "Loading ring will come with sealed capsules and it will turn upside down for ejection"
+      ]
+    },
+    {
+      "name": "Benefits of Semi-Automatic Capsule Filling Machine",
+      "list": [
+        "Simple Operation",
+        "Easy Maintenance",
+        "Power Saving",
+        "High Filling Accuracy",
+        "Quick and safe operation of closing and ejection",
+        "Easy to upgrade"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Semi-Automatic Capsule Filling Machine",
+      "headers": ["Model", "BP-SACF-35", "BP-SACF-45"],
+      "rows": [
+        [
+          "Production Output /hr",
+          "Up to 35,000 capsules",
+          "Up to 45,000 capsules"
+        ],
+        ["M.O.C. of Loading Ring", "Magnesium Alloy", "Magnesium Alloy"],
+        [
+          "M.O. C. of contact parts",
+          "Stainless Steel 316",
+          "Stainless Steel 316"
+        ],
+        ["Number of Ring", "Single", "Double"],
+        [
+          "Number of Holes",
+          "Size 00: 480, Size 0: 600, Size 1, 2, 3, 4 & 5: 720",
+          "Size 00: 480, Size 0: 600, Size 1, 2, 3, 4 & 5: 720"
+        ],
+        [
+          "Power Supply",
+          "3 Phase, 415 Volts, 50 Hertz",
+          "3 Phase, 415 Volts, 50 Hertz"
+        ],
+        ["Compressed Air", "8 CFM", "8 CFM"],
+        [
+          "Machine Dimensions (mm)",
+          "L:1950 W:1200 H:1800",
+          "L:2650 W:1250 H:1800"
+        ],
+        ["Net Weight in Kgs.", "1100", "1250"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Semi-Automatic Capsule Filling Machine By Bharat Pharmatech",
+    "description": "Semi-Automatic Capsule Filling Machine by bharat pharmatech",
+    "keywords": "Semi-Automatic Capsule Filling Machine, capsule filling machine, capsule filling machine with bharat pharmatech"
+  },
+  "slug": "/semi-automatic-capsule-filling-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Capsule Filling Machinery",
+    "slug": "/capsule-filling-machinery",
+    "img_landscap": "",
+    "img_portrait": "",
+    "desc": ""
+  },
+  {
+    "id": 2,
+    "title": "Tablet Press Machinery",
+    "slug": "/tablet-press-machinery",
+    "img_landscap": "",
+    "img_portrait": "",
+    "desc": ""
+  },
+  {
+    "id": 3,
+    "title": "Blister Packing Machinery",
+    "slug": "/blister-packing-machinery",
+    "img_landscap": "",
+    "img_portrait": "",
+    "desc": ""
+  }
+]

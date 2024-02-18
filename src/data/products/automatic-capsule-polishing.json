@@ -1,0 +1,73 @@
+{
+  "id": 3,
+  "filename": "automatic-capsule-polishing",
+  "title": "Automatic Capsule Polishing Machine",
+  "descriptions": [
+    "Bharat Pharmatech proudly presents the Automatic Capsule Polisher Model LI-CP, engineered with precision to uphold capsule cleanliness and polishing quality. Operating on the rotating brush principle, this advanced machine continuously cleans capsules by removing powder particles from their outer surfaces. By connecting the polishing chamber to a vacuum cleaner, Bharat Pharmatech's innovative design ensures efficient removal of de-dusted powder residue, elevating polishing standards and enhancing overall product quality. Trust Bharat Pharmatech for cutting-edge solutions that prioritize cleanliness, efficiency, and excellence in capsule manufacturing."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Automatic Capsule Polishing Machine",
+      "list": [
+        "Complies as per cGMP standards",
+        "All contact parts with the capsules made from Stainless Steel 304 or 316 material. ",
+        "The polishing chamber lined with nylon net.",
+        "VFD Control Drive",
+        "Separate Dust Collection System",
+        "The polishing chamber inclination can be adjusted to suit the formulation.",
+        "Provision of compressed air for cleaning the nylon brush.",
+        "No change parts are required for different size of capsules.",
+        "Easy to dismantle, wash and reassemble.",
+        "No maintenance is required for polishing machine except for periodic cleaning, ",
+        "Compact size design, easy to shift and occupies minimum floor area.",
+        "Mounted on a stand with locking type wheels and can be freely moved about and taken to any place for putting it in operation."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Automatic Capsule Polishing Machine",
+      "headers": ["Model", "BP-CP"],
+      "rows": [
+        ["Production Output", "90,000 capsules/hour"],
+        ["Power Supply", "1 H.P."],
+        ["Electricals", "230 Volts, 1 Phase, 50 Hertz"],
+        ["Net Weight", "65 Kilograms"],
+        ["Gross Weight", "100 Kilograms"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Automatic Capsule Polishing Machine By Bharat Pharmatech",
+    "description": "Automatic Capsule Polishing Machine by bharat pharmatech",
+    "keywords": "Automatic Capsule Polishing Machine, capsule polishing machine, capsule polishing machine with bharat pharmatech"
+  },
+  "slug": "/automatic-capsule-polishing-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "automatic capsule polishing machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "automatic capsule polishing machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "automatic capsule polishing machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "automatic capsule polishing machine with bharat pharmatech"
+    }
+  ]
+}

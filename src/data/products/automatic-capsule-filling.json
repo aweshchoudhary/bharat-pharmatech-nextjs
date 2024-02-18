@@ -1,0 +1,118 @@
+{
+  "id": 3,
+  "filename": "automatic-capsule-filling",
+  "title": "Automatic Capsule Filling Machine",
+  "descriptions": [
+    "The LCF Model Fully Automatic Capsule Filling Machine sets new standards in pharmaceutical manufacturing, boasting an impressive capacity of filling up to 90,000 capsules per hour. This advanced machine offers unparalleled accuracy, accommodating a wide range of hard gelatin capsule sizes from 00 to 4, and can handle various formulations, including granules, powder, or pellets, either individually or in combinations, with exceptional precision. Employing cutting-edge tamping pin technology, the Automatic Capsule Filler ensures precise filling and sealing of capsules, reflecting the company's over 20 years of expertise in designing filling machinery.",
+    "Controlled by a programmable logic controller with a user-friendly touch-enabled interface from 'Siemens,' the machine offers effortless operation and customization to meet diverse application needs. With multiple models available, it can produce a minimum of 25,000 capsules, scaling up to an impressive 90,000 capsules per hour. Ensuring smooth operations, a 3-phase power supply is recommended for the machine, while its dosing tools guarantee high efficiency, contributing to its widespread adoption in pharmaceutical industries. Constructed from durable stainless steel 316/304 frames, the fully automatic capsule filler ensures stability and longevity.",
+    "Complementing the machine's efficiency are several auxiliary equipments within the automatic capsule filling line. These include the Automatic Capsule Sorter Elevator, Metal Detector, Automatic Capsule Polishing Machine, Empty Capsule Ejector, and Damage Capsule Sorter. From feeding high-quality empty capsules to detecting any metal traces in the content, and from removing dust particles to sorting out distorted capsules, each equipment plays a vital role in optimizing the overall operation, ensuring product quality and efficiency at every stage."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Automatic Capsule Filling Machine",
+      "list": [
+        "Designed to cGMP Standards: Our machine prioritizes safety by adhering to cGMP standards, with a special focus on handling powder dust effectively. The main turntable prevents dust particles from interfering with the machine's mechanical components.",
+        "Enclosed Dosing System: Featuring an enclosed dosing system, our automatic capsule filling machine minimizes the need for frequent cleaning by efficiently suctioning dust.",
+        "Vacuum Cleaning Stations: Our filling line includes vacuum cleaning stations for segment cleanup in each cycle, ensuring a clean and smooth operation.",
+        "Capsule Separation: Utilizing vacuum technology, our machine efficiently separates capsules, streamlining the filling process.",
+        "User-Friendly Controls: With a Touch Screen HMI offering automatic/manual/parameter setup modes, production counter, and alarms, operation is intuitive and efficient.",
+        "Precise Dosing: The machine includes dosing disk and capsule segments for precise operations, reducing the need for adjustments during parts changeover.",
+        "Transparent Safety Features: Transparent safety interlock guards and Stainless Steel 304 frames ensure durability and a long lifespan for the machine.",
+        "Accurate Capsule Separation: Our machine accurately separates a wide range of capsules without causing any damage, ensuring product integrity.",
+        "Automatic Rejection System: Equipped with an automatic rejection system, our machine detects non-separated/improperly inserted capsule top caps, maintaining product quality.",
+        "High Efficiency: With highly precise dosing tools and quick fill weight adjustment, our machine guarantees high working efficiency, minimizing downtime and maximizing productivity."
+      ]
+    },
+    {
+      "name": "Operating Procedure of Automatic Capsule Filling Machine",
+      "list": [
+        "Empty capsules are fed in the hopper",
+        "One row of capsules released in rectifier track",
+        "The direction of capsules is rectified and they are pushed into the hole with caps on upper side",
+        "The capsules are sent to different workstations with the help of a turntable",
+        "Capsules are separated with the help of a vacuum",
+        "Capsule bodies are filled with the powder and pins push the powder",
+        "Capsule bodies and caps are rejoined",
+        "Non-separated capsules are ejected ",
+        "The holes are cleaned for the next operation cycle"
+      ]
+    },
+    {
+      "name": "Benefits of Automatic Capsule Filling Machine",
+      "list": [
+        "Designed as per the cGMP standards",
+        "High production capacity",
+        "Enhanced accuracy in filling",
+        "User-friendly controls",
+        "Low maintenance operation",
+        "Minimal downtime"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Automatic Capsule Filling Machine",
+      "headers": ["Model", "BP-ACF-25", "BP-ACF-40", "BP-ACF-70", "BP-ACF-90"],
+      "rows": [
+        [
+          "Production Output /hr",
+          "25,000 capsules",
+          "40,000 capsules",
+          "70,000 capsules",
+          "90,000 capsules"
+        ],
+        ["Contact parts", "SS 316", "SS 316", "SS 316", "SS 316"],
+        ["Non – Contact parts", "SS 304", "SS 304", "SS 304", "SS 304"],
+        [
+          "Power Supply",
+          "3 Phase, 415 Volts, 50 Hertz",
+          "3 Phase, 415 Volts, 50 Hertz",
+          "3 Phase, 415 Volts, 50 Hertz",
+          "3 Phase, 415 Volts, 50 Hertz"
+        ],
+        ["Compressor Air Required", "4 CFM", "4 CFM", "4 CFM", "4 CFM"],
+        [
+          "Machine Dimensions",
+          "L:975 W:875 H:1955",
+          "L:975 W:875 H:1955",
+          "L:1300 W:1200 H:2300",
+          "L:1275 W:1200 H:2200"
+        ],
+        ["Net Weight Approx (in Kgs.)", "850", "850", "1400", "1600"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Automatic Capsule Filling Machine By Bharat Pharmatech",
+    "description": "Automatic Capsule Filling Machine by bharat pharmatech",
+    "keywords": "Automatic Capsule Filling Machine, capsule filling machine, capsule filling machine with bharat pharmatech"
+  },
+  "slug": "/automatic-capsule-filling-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    }
+  ]
+}

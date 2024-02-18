@@ -1,0 +1,69 @@
+{
+  "id": 3,
+  "filename": "semi-automatic-capsule-counting",
+  "title": "Semi-Automatic Capsule Counting Machine",
+  "descriptions": [
+    "Introducing the Semi-Automatic Single Disc Capsule Counting Machine by Bharat Pharmatech - a compact, highly efficient, and cost-effective solution for capsule and tablet counting and packaging. Designed with ergonomics in mind, this machine is easy to handle and maintain for operators, ensuring seamless operations and accurate results. Its versatility allows it to count and pack capsules and tablets of any size with precision, meeting the highest standards of Good Manufacturing Practice (GMP). Trust Bharat Pharmatech's semi-automatic machines for trouble-free operations and consistently reliable performance, helping you maintain excellence in pharmaceutical manufacturing."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Semi-Automatic Capsule Counting Machine",
+      "list": [
+        "Each disc is custom designed and manufactured to meet customer’s needs.",
+        "The machine is provided with adjustable filler which can be elevated from 20 to 25 degrees, to facilitate entry of the products into the disc holes.",
+        "The machine is fitted with superior quality delivery chutes which direct the product from the counting disc into the stainless-steel filler tubes of various sizes, to suit different containers, suitable to work on 3 phase ac, 1 HP motor, 1440 rpm with variable speed drive.",
+        "The entire machine is mounted on MS body.",
+        "Simple operation, only one operator required, and operating training can be done in 10 min.",
+        "G.M.P. model: M.S. body of the machine cladded with SS sheet”."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Semi-Automatic Capsule Counting Machine",
+      "headers": ["Model", "BP-SACC"],
+      "rows": [
+        ["Contact Parts", "Stainless Steel 316"],
+        ["Power consumptions", "0.75 KW / 1 H.P."],
+        ["Air Consumption", "40 Litre/minute@ 6 bar pr."],
+        ["Power supply", "A.C. 3 Phase440 V, 50 Hz Motor-1440rpm"],
+        ["Packing Case Dimension", "1981 (L) X 1219 (W) 1016 (H) mm"],
+        ["Net Weight", "290 Kg."],
+        ["Gross Weight ", "425 Kg."]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Semi-Automatic Capsule Counting Machine By Bharat Pharmatech",
+    "description": "Semi-Automatic Capsule Counting Machine by bharat pharmatech",
+    "keywords": "Semi-Automatic Capsule Counting Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/semi-automatic-capsule-counting-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+    }
+  ]
+}

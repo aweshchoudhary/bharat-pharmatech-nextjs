@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "home",
+    "Title": "Home",
+    "href": "/",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "name": "about",
+    "Title": "About",
+    "href": "/about",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "name": "products",
+    "Title": "Products",
+    "href": "/p/all",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "name": "gallery",
+    "Title": "Gallery",
+    "href": "/gallery",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "name": "blog",
+    "Title": "Blog",
+    "href": "/blog",
+    "icon": ""
+  },
+  {
+    "id": 1,
+    "name": "contact",
+    "Title": "Contact",
+    "href": "/contact",
+    "icon": ""
+  }
+]

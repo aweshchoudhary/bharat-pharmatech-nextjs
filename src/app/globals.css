@@ -77,13 +77,19 @@
 }
 
 @layer utilities {
+  .section-x {
+    @apply lg:px-20 md:px-10 px-5;
+  }
   .section {
     @apply lg:px-20 lg:py-20 md:p-10 py-10 p-5;
   }
   .heading {
-    @apply lg:text-4xl md:text-3xl sm:text-2xl text-xl font-semibold;
+    @apply text-2xl font-semibold leading-none tracking-tight md:text-3xl lg:text-4xl;
   }
-  .subheading {
-    @apply md:text-2xl text-xl font-semibold;
+  .sub-heading {
+    @apply text-lg font-medium leading-none tracking-tight md:text-xl lg:text-2xl;
+  }
+  .small-heading {
+    @apply text-lg font-semibold leading-none tracking-tight md:text-lg lg:text-xl;
   }
 }

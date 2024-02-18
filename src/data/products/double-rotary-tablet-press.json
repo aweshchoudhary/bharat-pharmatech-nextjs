@@ -1,0 +1,100 @@
+{
+  "id": 3,
+  "filename": "double-rotary-tablet-press",
+  "title": "Double Rotary Tablet Machine",
+  "descriptions": [
+    "Introducing Bharat Pharmatech's Square GMP Model Double Rotary Tablet Press, a cutting-edge solution designed for efficient and safe tablet production in pharmaceutical manufacturing. With its operator-friendly design, this press features an electronic digital tablet cum RPM counter for precise monitoring and control, ensuring accuracy throughout the process. Additionally, reverse direction motion protection is incorporated for enhanced safety during operation. Equipped with double-sided lifting cams and an extra hand wheel, loading punch die sets is made easy, facilitating smooth and seamless production. Trust Bharat Pharmatech's innovative equipment to optimize your tablet manufacturing process while maintaining the highest standards of quality and safety."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Double Rotary Tablet Machine",
+      "list": [
+        "CI body and turret made of special grade iron casting with CI middle plate, imported needle roller bearing provided at the bottom of turret. Also available with middle plate of turret made of 316 grade stainless steel.",
+        "No painted parts in tablet manufacturing zone; all parts made of stainless steel 304, gunmetal, or hard chrome plated. All hardware used in the machine has stainless steel 304 quality in tablet manufacturing zone.",
+        "Equipped with a disk type friction clutch start system for efficient operation.",
+        "Includes upper punch penetration system, variable speed pulley, one-shot lubrication system, and anti-vibrating mount for smooth performance.",
+        "Lower guard made of polished stainless steel and upper guards of acrylic material. Turret guards have a sturdy aluminum frame. All guards are interlocked for safety.",
+        "Effective dust extraction nozzles.",
+        "Options are available for customization like (1) Force Feeding Attachment (2) Two Layer / Bilayer Tablet Attachment (3) Poly Carbonate Upper Guards (4) Auto Lubrication Pump (5) Machine with out side control is available (See the Picture)"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Double Rotary Tablet Machine",
+      "headers": ["Model", "BP-27-D", "BP-27-B", "BP-35-B", "BP-45-BB"],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        ["Type of Tooling", "“D”", "“B”", "“B”", "“BB”"],
+        ["No. of Station", "27", "27", "35", "45"],
+        [
+          "Tablets Output /hour* (Max.)",
+          "129600",
+          "129600",
+          "168000",
+          "216000"
+        ],
+        ["Operating Pressure Max. (Ton)", "10", "6.5", "6.5", "6.5"],
+        ["Tablet Diameter Max. (mm)", "25", "16", "16", "11.5"],
+        ["Depth of Fill Max. (mm)", "20.5", "17.5", "17.5", "17.5"],
+        [
+          "Upper Punch Penetration (mm)",
+          "1.5 – 8",
+          "1.5 – 8",
+          "1.5 – 8",
+          "1.5 – 8"
+        ],
+        ["Total Electrical Power (hp)", "5 HP", "5 HP", "5 HP", "5 HP"],
+        [
+          "Electric Power Supply",
+          "3 Phase, 1440 RPM, 415 V., 50 Hz. OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V., 50 Hz. OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V., 50 Hz. OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V., 50 Hz. OR As Per the requirement of Customer"
+        ],
+        ["Turret RPM Max. ( Max.)", "40", "40", "40", "40"],
+        [
+          "Tablet Press Dimension (mm) (Approx.)",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820",
+          "980 x 1020 x 1820"
+        ],
+        ["Net Weight (kgs) (Approx.)", "1000", "1000", "1000", "1000"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Double Rotary Tablet Machine By Bharat Pharmatech",
+    "description": "Double Rotary Tablet Machine by bharat pharmatech",
+    "keywords": "Double Rotary Tablet Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/double-rotary-tablet-press-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "double rotary tablet press machine with bharat pharmatech"
+    }
+  ]
+}

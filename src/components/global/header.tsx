@@ -2,6 +2,7 @@ import Link from "next/link";
 import Logo from "./logo";
 import SearchBtn from "./search-btn";
 import { Button } from "../ui/button";
+import HeaderDropDownMenu from "./header-dropdown-menu";
 
 type Props = {};
 
@@ -45,13 +46,26 @@ const Header = (props: Props) => {
         </div>
         <nav>
           <ul className="flex">
-            {links.map((link: LinkType, i: number) => (
-              <li key={i}>
-                <Link className="px-3 text-lg hover:underline" href={link.href}>
-                  {link.name}
-                </Link>
-              </li>
-            ))}
+            {links.map((link: LinkType, i: number) =>
+              link.name === "Products" ? (
+                <HeaderDropDownMenu key={i}>
+                  <li>
+                    <button className="px-3 text-lg hover:underline">
+                      {link.name}
+                    </button>
+                  </li>
+                </HeaderDropDownMenu>
+              ) : (
+                <li key={i}>
+                  <Link
+                    className="px-3 text-lg hover:underline"
+                    href={link.href}
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              )
+            )}
           </ul>
         </nav>
         <div className="flex gap-4">

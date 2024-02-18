@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "Capsule Section",
+    "category": "capsule",
+    "slug": "/capsule-section",
+    "submenu": [
+      {
+        "id": 1,
+        "title": "Manual Capsule Filling Machine",
+        "category": "capsule",
+        "slug": "/manual-capsule-filling"
+      },
+      {
+        "id": 2,
+        "title": "Semi-Automatic Capsule Filling Machine",
+        "category": "capsule",
+        "slug": "/semi-automatic-capsule-filling"
+      },
+      {
+        "id": 3,
+        "title": "Automatic Capsule Filling Machine",
+        "category": "capsule",
+        "slug": "/automatic-capsule-filling"
+      },
+      {
+        "id": 4,
+        "title": "Automatic Capsule Loader Machine",
+        "category": "capsule",
+        "slug": "/automatic-capsule-loader"
+      },
+      {
+        "id": 5,
+        "title": "Semi-Automatic Capsule Counting Machine",
+        "category": "capsule",
+        "slug": "/semi-automatic-capsule-counting"
+      },
+      {
+        "id": 6,
+        "title": "Capsule Polishing Machine",
+        "category": "capsule",
+        "slug": "/capsule-polishing"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tablet Press",
+    "category": "tablet",
+    "slug": "/tablet-press",
+    "submenu": [
+      {
+        "id": 1,
+        "title": "Mini Single Side Rotary Tablet Press Machine",
+        "category": "tablet",
+        "slug": "/mini-single-rotary-tablet-press"
+      },
+      {
+        "id": 2,
+        "title": "Single Side Rotary Tablet Press Machine",
+        "category": "tablet",
+        "slug": "/single-rotary-tablet-press"
+      },
+      {
+        "id": 3,
+        "title": "Double Side Rotary Tablet Press Machine",
+        "category": "tablet",
+        "slug": "/double-rotary-tablet-press"
+      },
+      {
+        "id": 4,
+        "title": "Doubel Side High Speed Rotary Tablet Press Machine",
+        "category": "tablet",
+        "slug": "/double-high-speed-rotary-tablet-press"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Blister Packing",
+    "category": "packing",
+    "slug": "/blister-packing"
+  }
+]

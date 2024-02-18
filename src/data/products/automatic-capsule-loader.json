@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "filename": "automatic-capsule-filling",
+  "title": "Automatic Capsule Filling Machine",
+  "descriptions": [
+    "Bharat Pharmatech introduces its cutting-edge Automatic Capsule Loader, revolutionizing capsule loading processes in pharmaceutical industries. Designed for seamless integration with manual capsule filling machines, this innovative loader streamlines operations, enhancing productivity and efficiency. Ideal for medium to large-scale pharmaceutical companies, Bharat Pharmatech's capsule loader boasts high accuracy and speed, delivering up to 300 capsules in just 28 seconds.",
+    "Our Automatic Capsule Loader is a game-changer, offering unparalleled performance and reliability. With its user-friendly interface and compact design, it maximizes space utilization while minimizing labor costs. Featuring advanced SEO-optimized technology, this machine ensures effortless maintenance and operation, requiring minimal skill to operate effectively. Plus, its automatic stop feature guarantees efficiency and prevents unnecessary downtime, making it a valuable asset for any production line.",
+    "Investing in Bharat Pharmatech's Automatic Capsule Loader can significantly boost your company's production output and profitability. By leveraging our state-of-the-art machinery, businesses can optimize their processes, reduce manual labor, and enhance overall efficiency. Don't miss out on the opportunity to revolutionize your capsule loading operations with Bharat Pharmatech's industry-leading solutions."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Automatic Capsule Filling Machine",
+      "list": [
+        "High output with low investment",
+        "Significant difference in production",
+        "Easy to operate",
+        "Suitable for all standard sized capsules with appropriate size change parts.",
+        "All parts are easily removable",
+        "Stops the process automatically after loading is completed",
+        "Loads 300 capsules in loading tray only in 28 seconds",
+        "Comes with interchangeable parts for any size capsule"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Automatic Capsule Filling Machine",
+      "headers": ["Model", "BP-ACL"],
+      "rows": [
+        ["Output", " 36,000 capsules per/hour"],
+        ["Drive", "¼ H.P, 3 phase, 440 volts"],
+        ["Dimension length (mm)", "630 mm X 430 mm X 780 mm"],
+        ["Weight", "95 kilograms approx"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Automatic Capsule Filling Machine By Bharat Pharmatech",
+    "description": "Automatic Capsule Filling Machine by bharat pharmatech",
+    "keywords": "Automatic Capsule Filling Machine, capsule filling machine, capsule filling machine with bharat pharmatech"
+  },
+  "slug": "/automatic-capsule-filling-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "manual capsule filling machine with bharat pharmatech"
+    }
+  ]
+}

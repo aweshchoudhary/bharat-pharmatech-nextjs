@@ -1,7 +1,8 @@
 import AboutSection from "./_components/about-section";
-import CapsuleProductSlider from "./_components/product-slider";
 import CategorySection from "./_components/category-section";
 import HeroSection from "./_components/hero-section";
+import ProductSlider from "./_components/product-slider-v2";
+import capsuelProducts from "@/data/slim-products/capsule.json";
 
 const Page = () => {
   return (
@@ -9,9 +10,11 @@ const Page = () => {
       <HeroSection />
       <AboutSection />
       <CategorySection />
-      <CapsuleProductSlider />
-      <CapsuleProductSlider />
-      <CapsuleProductSlider />
+      <ProductSlider
+        title="Capsule Filling Machinery"
+        subtitle="Explore the wide range of Capsule Filling Machinery"
+        products={capsuelProducts as any}
+      />
     </>
   );
 };

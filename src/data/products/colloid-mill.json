@@ -1,0 +1,82 @@
+{
+  "id": 3,
+  "filename": "colloid-mill",
+  "title": "Colloid Mill Machine",
+  "descriptions": [
+    "Elevate your pharmaceutical processes with Bharat Pharmatech's Colloid Mill Machine – the ultimate homogenizer cum emulsifier for various applications. Designed for homogenizing, emulsifying, dispersing, grinding, mixing, and extracting, our colloid mill reflects the precision and workmanship of our professional engineers. Serving industries for decades, we ensure top-notch quality in every application. Whether for small, medium, or large-scale tablet batching systems, our colloid mill is the ideal solution.",
+    "In the fast-paced world of chemical and pharmaceutical industries, efficiency is paramount for staying ahead in the competition. Bharat Pharmatech's Colloid Mill Machine is the answer to streamline development cycles. Unleash the potential of your processes with our efficient machine, tailored to bridge the gap between R&D and production. Manufactured, supplied, and exported by Bharat Pharmatech, it's time to redefine your industry standards and lead the way in innovation."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Colloid Mill Machine",
+      "list": [
+        "Choose between a round shape machine body with C.I. material and SS cladding in the Vertical Type Standard Model or an S.S. fabricated square body in the Vertical Type Deluxe Model for superior durability and aesthetics.",
+        "Benefit from all contact parts being made out of high-quality S.S.-304 material, with an optional upgrade to S.S. 316 for increased corrosion resistance.",
+        "Experience precise grinding with a circular ring-shaped, internally conical stator featuring two different tooth stages, perfectly matched with a toothed conical rotor.",
+        "Opt for the Vertical Standard Model with a rotor directly coupled with the motor shaft or the Vertical Deluxe Model with a rotor coupled with a belt for enhanced efficiency.",
+        "Ensure smooth operation and longevity with a balanced stator and rotor assembly housed in a stainless steel housing.",
+        "Achieve exceptional grinding fineness of 5 – 10 microns due to the specially designed conical-shaped stator and rotor assembly.",
+        "Enjoy fine adjustment of bearing clearances and backlash prevention with an extended bearing housing in the Vertical Deluxe Model.",
+        "Easily adjust the grinding gap during operation with a specially designed exterior screw mechanism controlled by two handles.",
+        "Utilize the three-way cock system provided as standard in water-jacketed models for convenient draining and recirculation of liquids.",
+        "Experience superior performance and reliability with precision-engineered components and thoughtful design features."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Colloid Mill Machine",
+      "headers": ["Model", "BP-CM-V", "BP-CM-H"],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        ["Model", "Vertical Lab", "Horizontal/ Vertical"],
+        ["Output Litre /hour", "10 to 150", "145 to 1500"],
+        ["Jacket", "Water Jacketed", "Water Jacketed"],
+        ["Grinding Accuracy", "5 to 10 Micron", "5 to 10 Micron"],
+        ["Hopper Capacity", "20 Litres", "20 Litres"],
+        ["Motor Type", "Flange Mounted", "Flange Mounted"],
+        [
+          "Motor",
+          "1 HP X 2850 RPM, 3 Ph. x 440 V., x 50Hz. A.C. Supply",
+          "3 HP X 2850 RPM, 3 Ph. x 440 V., x 50Hz. A.C. Supply"
+        ],
+        ["Motor Coupling", "Belt Driven", "Belt Driven"],
+        ["Floor Space (mm)", "400 x 510", "365 x 720"],
+        ["Net Weight (Approx.)", "95 Kgs.", "160 Kgs."]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Colloid Mill Machine By Bharat Pharmatech",
+    "description": "Colloid Mill Machine by bharat pharmatech",
+    "keywords": "Colloid Mill Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/colloid-mill",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "colloid mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "colloid mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "colloid mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "colloid mill machine with bharat pharmatech"
+    }
+  ]
+}

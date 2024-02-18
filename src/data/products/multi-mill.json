@@ -1,0 +1,73 @@
+{
+  "id": 3,
+  "filename": "multi-mill",
+  "title": "Multi Mill Machine",
+  "descriptions": [
+    "Introducing Bharat Pharmatech's cutting-edge Multi Mill, a versatile and portable unit revolutionizing granulation, pulverizing, mixing, shredding, and chopping of dry materials. With specialized attachments including beaters equipped with Knife/Impact blades and Scraper blades, our Multi Mill ensures optimal output with every operation. Whether you're in pharmaceuticals, food industries, research and development, or educational institutions like pharmacy colleges, our Multi Mill caters to diverse needs with its wide range of model selections. From direct driven to belt driven, varying perforated screen sizes, and motor horsepower options, Bharat Pharmatech offers the perfect solution tailored to your requirements.",
+    "Experience unmatched efficiency and performance with Bharat Pharmatech's Multi Mill, designed to streamline processes and enhance productivity in various industries. Our state-of-the-art equipment boasts seamless operation and precise results, making it indispensable in pharmaceutical manufacturing, food processing, and educational settings. With its compact and self-contained design, the Multi Mill offers unparalleled convenience without compromising on functionality. Trust Bharat Pharmatech for innovative solutions that redefine standards and drive success in your operations.",
+    "Unlock the potential of your production processes with Bharat Pharmatech's Multi Mill, engineered for excellence and reliability. Whether you're aiming for high-speed granulation, precise pulverizing, or efficient mixing, our versatile unit delivers consistent performance with every use. Backed by advanced technology and superior craftsmanship, our Multi Mill stands as a symbol of quality and ingenuity in the industry. Elevate your operations with Bharat Pharmatech's Multi Mill and stay ahead in today's competitive market landscape."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Multi Mill Machine",
+      "list": [
+        "Optimize beater speed effortlessly with Variable Frequency Drive (VFD) technology.",
+        "Experience hassle-free dismantling and cleaning for enhanced convenience.",
+        "Enjoy seamless portability thanks to the inclusion of convenient castor wheels.",
+        "Flexibly change the direction of blade rotation to suit your specific needs.",
+        "Customize your equipment with multiple options for perforated screens, speeds, and blade configurations.",
+        "Achieve precise control over mixing and blending processes with adjustable speed drives.",
+        "Simplify maintenance tasks with user-friendly designs for easy dismantling and cleaning procedures.",
+        "Enhance mobility and maneuverability with built-in castor wheels for effortless transportation.",
+        "Adapt to varying production demands by adjusting blade rotation direction as required.",
+        "Maximize versatility with a range of options for perforated screen types, blade speeds, and configurations."
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Multi Mill Machine",
+      "headers": ["Model", "OUTPUT KGS/HR.", "ROTOR SPEED", "MOTOR HP"],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        ["BP-MM-1HP", "BP-MM-3HP", "BP-MM-5HP", "BP-MM-7.5HP"],
+        ["0-100 Kgs/Hr.", "0-250 Kgs/Hr.", "0-500 Kgs/Hr.", "0-750 Kgs/Hr."],
+        ["0-2800 RPM", "0-2800 RPM", "0-2800 RPM", "0-2800 RPM"],
+        ["1 HP", "3 HP", "5 HP", "7.5 HP"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Multi Mill Machine By Bharat Pharmatech",
+    "description": "Multi Mill Machine by bharat pharmatech",
+    "keywords": "Multi Mill Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/multi-mill",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "multi mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "multi mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "multi mill machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "multi mill machine with bharat pharmatech"
+    }
+  ]
+}

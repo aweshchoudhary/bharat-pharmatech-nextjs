@@ -1,0 +1,129 @@
+{
+  "id": 3,
+  "filename": "single-rotary-mini-tablet-press",
+  "title": "Single Rotary Mini Tablet Machine",
+  "descriptions": [
+    "Introducing the Semi-Automatic Single Disc Capsule Counting Machine by Bharat Pharmatech - a compact, highly efficient, and cost-effective solution for capsule and tablet counting and packaging. Designed with ergonomics in mind, this machine is easy to handle and maintain for operators, ensuring seamless operations and accurate results. Its versatility allows it to count and pack capsules and tablets of any size with precision, meeting the highest standards of Good Manufacturing Practice (GMP). Trust Bharat Pharmatech's semi-automatic machines for trouble-free operations and consistently reliable performance, helping you maintain excellence in pharmaceutical manufacturing."
+  ],
+  "features_lists": [
+    {
+      "name": "Salient Features of Single Rotary Mini Tablet Machine",
+      "list": [
+        "Pre-compression facility as a standard feature",
+        "AC variable drive and fixed pulley. It is driven from central pillar by worm reduction gear box.",
+        "Lower guards of stainless steel & upper guards of transparent acrylic to view tablet compression process of the machine comfortably.",
+        "Electronic Tablet Counting System",
+        "Granules are fed through an open feed frame which ensures trouble-free settings and minimum wastage of valuable material",
+        "Force feeding attachment is optional accessories for difficult, fluffy & fine granule compression.",
+        "Table top, Mobile & easy to cleanTable top, Mobile & easy to clean",
+        "For easy operation outside controls are given for Pre Compression adjustment, tablet thickness adjustment and turret speed adjustment"
+      ]
+    },
+    {
+      "name": "Optional Parts/ Accessories available with the Single Rotary Mini Tablet Press /Compression Machine",
+      "list": [
+        "Available in 4D+4B / 4D+4B+4BB model",
+        "SS 316 Contact Parts",
+        "Nickel Plating on Turret",
+        "Hopper Granule Level Sensor",
+        "Force Feeder Attachment",
+        "Stand with Drawer (SS 304)"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "name": "Technical Specification of Single Rotary Mini Tablet Machine",
+      "headers": [
+        "Model",
+        "BP-10-B",
+        "BP-10-D",
+        "BP-8-D",
+        "BP-4D+4B",
+        "BP-4D+4B+4BB"
+      ],
+      "caption": "* Depending upon the tooling size, shape and material characteristics Note: We reserve right to change specifications without any prior notice.",
+      "rows": [
+        [
+          "Type of Tooling",
+          "“B”",
+          "“D”",
+          "“D”",
+          "“4”D” +4”B””",
+          "4”D” +4”B”+4”BB”"
+        ],
+        ["No. of Station", "10", "10", "8", "8(4+4)", "12 (4+4+4)"],
+        [
+          "Tablets Output /hour* (Max.)",
+          "18000",
+          "18000",
+          "14400",
+          "7200",
+          "7200"
+        ],
+        ["Operating Pressure Max. (Ton)", "6", "6", "6", "6", "6"],
+        [
+          "Tablet Diameter Max. (mm)",
+          "16",
+          "25",
+          "25",
+          "25/16",
+          "25 / 16 / 11.1"
+        ],
+        ["Depth of Fill Max. (mm)", "17.5", "20.5", "20.5", "17.5", "17.5"],
+        ["Total Ele. Power (hp)", "2 HP", "2 HP", "2 HP", "2 HP", "2 HP"],
+        [
+          "Electric Power Supply",
+          "3 Phase, 1440 RPM, 415 V, 50 Hz OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V, 50 Hz OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V, 50 Hz OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V, 50 Hz OR As Per the requirement of Customer",
+          "3 Phase, 1440 RPM, 415 V, 50 Hz OR As Per the requirement of Customer"
+        ],
+        ["Turret RPM Max. ( Max.)", "30", "30", "30", "30", "30"],
+        [
+          "Tablet Press Dimension (mm) (Approx.)",
+          "400 x 360 x 650",
+          "400 x 360 x 650",
+          "400 x 360 x 650",
+          "400 x 360 x 650",
+          "400 x 360 x 650"
+        ],
+        ["Net Weight (kgs) (Approx.)", "400", "400", "400", "400", "400"]
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Single Rotary Mini Tablet Machine By Bharat Pharmatech",
+    "description": "Single Rotary Mini Tablet Machine by bharat pharmatech",
+    "keywords": "Single Rotary Mini Tablet Machine, capsule counting machine, capsule counting machine with bharat pharmatech"
+  },
+  "slug": "/single-rotary-mini-tablet-press-machine",
+  "category": "capsule",
+  "price": {
+    "mrp_price": 399,
+    "discounted_price": 279
+  },
+  "ratings": {
+    "rating_count": 10,
+    "rating": 4.6
+  },
+  "imgs": [
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary mini tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary mini tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary mini tablet press machine with bharat pharmatech"
+    },
+    {
+      "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+      "alt": "single rotary mini tablet press machine with bharat pharmatech"
+    }
+  ]
+}

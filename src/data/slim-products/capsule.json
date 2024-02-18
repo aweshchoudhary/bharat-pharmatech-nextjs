@@ -1,0 +1,200 @@
+[
+  {
+    "id": 3,
+    "filename": "automatic-capsule-filling",
+    "title": "Automatic Capsule Filling Machine",
+    "slug": "/automatic-capsule-filling-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "automatic-capsule-filling",
+    "title": "Automatic Capsule Filling Machine",
+    "slug": "/automatic-capsule-filling-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "automatic-capsule-polishing",
+    "title": "Automatic Capsule Polishing Machine",
+    "slug": "/automatic-capsule-polishing-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "automatic capsule polishing machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "automatic capsule polishing machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "automatic capsule polishing machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "automatic capsule polishing machine with bharat pharmatech"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Manual Capsule Filling Machine",
+    "slug": "/manual-capsule-filling-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "filename": "semi-automatic-capsule-counting",
+    "title": "Semi-Automatic Capsule Counting Machine",
+    "slug": "/semi-automatic-capsule-counting-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "semi-automatic capsule counting machine with bharat pharmatech"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "filename": "semi-automatic-capsule-filling",
+    "title": "Semi-Automatic Capsule Filling Machine",
+
+    "slug": "/semi-automatic-capsule-filling-machine",
+    "category": "capsule",
+    "price": {
+      "mrp_price": 399,
+      "discounted_price": 279
+    },
+    "ratings": {
+      "rating_count": 10,
+      "rating": 4.6
+    },
+    "imgs": [
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      },
+      {
+        "img_id": "Backgrounds/difference-between-tablets-and-capsules_yqvtos",
+        "alt": "manual capsule filling machine with bharat pharmatech"
+      }
+    ]
+  }
+]
